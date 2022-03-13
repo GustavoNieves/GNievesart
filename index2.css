@@ -1,0 +1,26 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(https://media.istockphoto.com/vectors/rainbow-paint-splash-vector-id1275676830?k=20&m=1275676830&s=612x612&w=0&h=gKZObUdceB5wpvutoQ8rPQBGkXthWk7-Q6AeBWUplOQ=)
+}
+footer {
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+header.title {
+    font-size: 100px;
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+    padding: 0px 0px 0px 400px;
+}    
+p.about {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 10px 0px 10px;
+    padding: 0px 200px 0px 200px;
+}
+p.signature {
+    font-size: 30px;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    margin: 50px 0px 50px 900px;
+}

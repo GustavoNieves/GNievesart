@@ -1,0 +1,25 @@
+body {
+    background-repeat:space;
+    background-position: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa0jX57AEbdiuSHs75N85rYSXH0TTCUThMXA&usqp=CAU);
+}
+footer {
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 0px;
+}
+header.title {
+    font-size: 100px;
+    font-family: fantasy, Arial, Helvetica, sans-serif;
+    padding: 0px 0px 0px 400px;
+}
+img, a, p{
+    display: inline;
+    font-size: 25px;
+    padding: 40px 0px 40px 70px 
+}
+a {
+    color: blueviolet;
+}
+
